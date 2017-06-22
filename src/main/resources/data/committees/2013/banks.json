@@ -1,0 +1,88 @@
+{
+  "name" : "Banks",
+  "shortName" : "banks",
+  "url" : "http://www.nysenate.gov/committee/banks",
+  "videoUrl" : "http://www.livestream.com/NYSenate_banks",
+  "chairs" : [ {
+    "name" : "Joseph A. Griffo",
+    "shortName" : "griffo",
+    "url" : "http://www.nysenate.gov/senator/joseph-griffo"
+  } ],
+  "members" : [ {
+    "name" : "John J. Bonacic",
+    "shortName" : "bonacic",
+    "url" : "http://www.nysenate.gov/senator/john-j-bonacic"
+  }, {
+    "name" : "John A. DeFrancisco",
+    "shortName" : "defrancisco",
+    "url" : "http://www.nysenate.gov/senator/john-defrancisco"
+  }, {
+    "name" : "Hugh T. Farley",
+    "shortName" : "farley",
+    "url" : "http://www.nysenate.gov/senator/hugh-t-farley"
+  }, {
+    "name" : "Joseph A. Griffo",
+    "shortName" : "griffo",
+    "url" : "http://www.nysenate.gov/senator/joseph-griffo"
+  }, {
+    "name" : "Martin J. Golden",
+    "shortName" : "golden",
+    "url" : "http://www.nysenate.gov/senator/martin-j-golden"
+  }, {
+    "name" : "Kathleen A. Marchione",
+    "shortName" : "marchione",
+    "url" : "http://www.nysenate.gov/senator/kathleen-a-marchione"
+  }, {
+    "name" : "Thomas F. O'Mara",
+    "shortName" : "o'mara",
+    "url" : "http://www.nysenate.gov/senator/thomas-f-omara"
+  }, {
+    "name" : "Carl L Marcellino",
+    "shortName" : "marcellino",
+    "url" : "http://www.nysenate.gov/senator/carl-l-marcellino"
+  }, {
+    "name" : "Michael H. Ranzenhofer",
+    "shortName" : "ranzenhofer",
+    "url" : "http://www.nysenate.gov/senator/michael-h-ranzenhofer"
+  }, {
+    "name" : "Jack M. Martins",
+    "shortName" : "martins",
+    "url" : "http://www.nysenate.gov/senator/jack-m-martins"
+  }, {
+    "name" : "David J. Valesky",
+    "shortName" : "valesky",
+    "url" : "http://www.nysenate.gov/senator/david-j-valesky"
+  }, {
+    "name" : "Ted O'Brien",
+    "shortName" : "o'brien",
+    "url" : "http://www.nysenate.gov/senator/ted-obrien"
+  }, {
+    "name" : "Neil D. Breslin",
+    "shortName" : "breslin",
+    "url" : "http://www.nysenate.gov/senator/neil-d-breslin"
+  }, {
+    "name" : "Ruben Diaz",
+    "shortName" : "diaz",
+    "url" : "http://www.nysenate.gov/senator/ruben-diaz"
+  }, {
+    "name" : "Tony Avella",
+    "shortName" : "avella",
+    "url" : "http://www.nysenate.gov/senator/tony-avella"
+  }, {
+    "name" : "Kevin S. Parker",
+    "shortName" : "parker",
+    "url" : "http://www.nysenate.gov/senator/kevin-s-parker"
+  }, {
+    "name" : "James Sanders Jr.",
+    "shortName" : "sanders",
+    "url" : "http://www.nysenate.gov/senator/james-sanders-jr"
+  }, {
+    "name" : "Terry Gipson",
+    "shortName" : "gipson",
+    "url" : "http://www.nysenate.gov/senator/terry-gipson"
+  }, {
+    "name" : "Diane J. Savino",
+    "shortName" : "savino",
+    "url" : "http://www.nysenate.gov/senator/diane-j-savino"
+  } ]
+}

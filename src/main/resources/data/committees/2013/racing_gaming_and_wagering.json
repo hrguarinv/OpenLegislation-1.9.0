@@ -1,0 +1,56 @@
+{
+  "name" : "Racing, Gaming and Wagering",
+  "shortName" : "racing",
+  "url" : "http://www.nysenate.gov/committee/racing-gaming-and-wagering",
+  "videoUrl" : "http://www.livestream.com/NYSenate_Gaming",
+  "chairs" : [ {
+    "name" : "John J. Bonacic",
+    "shortName" : "bonacic",
+    "url" : "http://www.nysenate.gov/senator/john-j-bonacic"
+  } ],
+  "members" : [ {
+    "name" : "John J. Bonacic",
+    "shortName" : "bonacic",
+    "url" : "http://www.nysenate.gov/senator/john-j-bonacic"
+  }, {
+    "name" : "Phil Boyle",
+    "shortName" : "boyle",
+    "url" : "http://www.nysenate.gov/senator/philip-boyle"
+  }, {
+    "name" : "Joseph A. Griffo",
+    "shortName" : "griffo",
+    "url" : "http://www.nysenate.gov/senator/joseph-griffo"
+  }, {
+    "name" : "Kathleen A. Marchione",
+    "shortName" : "marchione",
+    "url" : "http://www.nysenate.gov/senator/kathleen-a-marchione"
+  }, {
+    "name" : "Michael F. Nozzolio",
+    "shortName" : "nozzolio",
+    "url" : "http://www.nysenate.gov/senator/michael-f-nozzolio"
+  }, {
+    "name" : "Michael H. Ranzenhofer",
+    "shortName" : "ranzenhofer",
+    "url" : "http://www.nysenate.gov/senator/michael-h-ranzenhofer"
+  }, {
+    "name" : "Joseph P. Addabbo Jr",
+    "shortName" : "addabbo",
+    "url" : "http://www.nysenate.gov/senator/joseph-p-addabbo-jr"
+  }, {
+    "name" : "Eric Adams",
+    "shortName" : "adams",
+    "url" : "http://www.nysenate.gov/senator/eric-adams"
+  }, {
+    "name" : "George Latimer",
+    "shortName" : "latimer",
+    "url" : "http://www.nysenate.gov/senator/george-s-latimer"
+  }, {
+    "name" : "James Sanders Jr.",
+    "shortName" : "sanders",
+    "url" : "http://www.nysenate.gov/senator/james-sanders-jr"
+  }, {
+    "name" : "David Carlucci",
+    "shortName" : "carlucci",
+    "url" : "http://www.nysenate.gov/senator/david-carlucci"
+  } ]
+}
